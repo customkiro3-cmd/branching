@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.sidebar.title("Navigation")
-st.sidebar.write("Select a page:")
+st.title("My Streamlit App")
+st.write("Hello, world!")
 st.write("This is a simple Streamlit app.")
